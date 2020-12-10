@@ -27,6 +27,8 @@
 <br />
 <br />
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TolgaNogay&show_icons=true&theme=radical)
+
 [instagram]: https://www.instagram.com/tolganogayy/
 [twitch]: https://www.twitch.tv/naumia
 
