@@ -10,7 +10,7 @@
 
 [<img align="left" alt="naumia | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="tolganogayy | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
-[<img align="left" alt="tolganogayy | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][twitter]
+[<img align="left" alt="tolganogayy | Instagram" width="44px" src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" />][twitter]
 
 
 <br />
