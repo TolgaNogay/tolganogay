@@ -6,9 +6,6 @@
 - HTML
 - C#
 
-- 💡 I'm currently focused on game and webpage development, and FiveM scripting,
-- ⚡ Come and join me on my streams for chill coding.
-
 ### Connect with me:
 
 [<img align="left" alt="naumia | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
@@ -29,9 +26,3 @@
 
 <br />
 <br />
-
-[discord]: https://discord.gg/yqHmvcr
-[instagram]: https://www.instagram.com/aliutkuoner/
-[twitch]: https://www.twitch.tv/utkuali
-[youtube]: https://www.youtube.com/channel/UCYAr8yo--p1Jf_TjM3Vi8GA?view_as=subscriber
-
