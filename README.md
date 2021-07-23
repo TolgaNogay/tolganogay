@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="naumia | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
+[<img align="left" alt="naum1a | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="tolganogayy | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 
 
