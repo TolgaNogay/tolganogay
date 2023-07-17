@@ -9,6 +9,8 @@
 [<img align="left" alt="naumia | Twitch" width="44px" src="https://img.icons8.com/fluent/2x/twitch.png" />][twitch]
 [<img align="left" alt="tolganogay | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 [<img align="left" alt="tolganogayy | Twitter" width="44px" src="https://i.ibb.co/X21cv6f/icons8-twitter-48-1.png" />][twitter]
+[<img align="left" alt="tolganogay@proton.me | Mail" width="44px" src="https://i.ibb.co/B30FNx8/icons8-protonmail-48.png" />][mail]
+
 
 <br />
 
@@ -30,3 +32,4 @@
 [instagram]: https://www.instagram.com/tolganogayy/
 [twitch]: https://www.twitch.tv/naumia
 [twitter]: https://www.twitter.com/tolganogayy
+[mail]: mailto:tolganogay@proton.me
