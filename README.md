@@ -30,4 +30,4 @@
 
 [instagram]: https://www.instagram.com/tolganogayy/
 [twitch]: https://www.twitch.tv/naumia
-
+[twitter]: https://www.twitter.com/tolganogayy
