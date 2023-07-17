@@ -17,7 +17,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Atom.io" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/atom-4-logo-png-transparent.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://i.ibb.co/CtQVLrB/icons8-visual-studio-48.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,7 +27,7 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TolgaNogay&show_icons=true&theme=radical)
+![Tolga Stats](https://github-readme-stats.vercel.app/api?username=TolgaNogay&show_icons=true&theme=radical)
 
 [instagram]: https://www.instagram.com/tolganogayy/
 [twitch]: https://www.twitch.tv/naumia
