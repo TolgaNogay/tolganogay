@@ -29,7 +29,7 @@
 
 ![Tolga Stats](https://github-readme-stats.vercel.app/api?username=TolgaNogay&show_icons=true&theme=radical)
 
-[instagram]: https://www.instagram.com/tolganogayy/
+[instagram]: https://www.instagram.com/tolganogay
 [twitch]: https://www.twitch.tv/naumia
 [twitter]: https://www.twitter.com/tolganogayy
 [mail]: mailto:tolganogay@proton.me
