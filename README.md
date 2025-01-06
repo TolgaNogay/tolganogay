@@ -9,7 +9,7 @@ I am a passionate **Web Developer** with a focus on building dynamic, user-frien
 - **Tools & Platforms**: Docker, Netlify, Vercel, Heroku
 
 ## 🚀 Featured Projects
-- **[Clyse](http://clyse.co)**: Stay in control of your connections with advanced features for shortening, targeting and tracking.
+- **[Clyse](https://clyse.co)**: Stay in control of your connections with advanced features for shortening, targeting and tracking.
 - **[Wicorns](https://wicorns.com)**: Technology and Trends Driven Content Platform
 
 ## 🌱 Currently Learning
@@ -17,9 +17,9 @@ I am a passionate **Web Developer** with a focus on building dynamic, user-frien
 - **GraphQL** for more efficient data fetching.
 
 ## 📬 Let's Connect
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [@YourUsername](link)
-- Email: [Your Email Address](mailto:your.email@example.com)
+- LinkedIn: [https://linkedin.com/in/tolganogay](https://linkedin.com/in/tolganogay)
+- X: [@tolganogay](https://x.com/tolganogayy)
+- Email: [tolganogay@gmail.com](mailto:tolganogay@gmail.com)
 
 Feel free to reach out if you're interested in collaborating on a project or discussing the latest trends in web development!
 
