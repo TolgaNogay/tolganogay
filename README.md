@@ -9,9 +9,8 @@ I am a passionate **Web Developer** with a focus on building dynamic, user-frien
 - **Tools & Platforms**: Docker, Netlify, Vercel, Heroku
 
 ## 🚀 Featured Projects
-- **[Project Name 1](link)**: A brief description of the project and technologies used.
-- **[Project Name 2](link)**: A brief description of the project and technologies used.
-- **[Project Name 3](link)**: A brief description of the project and technologies used.
+- **[Clyse](http://clyse.co)**: Stay in control of your connections with advanced features for shortening, targeting and tracking.
+- **[Wicorns](https://wicorns.com)**: Technology and Trends Driven Content Platform
 
 ## 🌱 Currently Learning
 - Advanced **Next.js** features and performance optimization techniques.
