@@ -17,7 +17,7 @@ I am a passionate **Web Developer** with a focus on building dynamic, user-frien
 - **GraphQL** for more efficient data fetching.
 
 ## 📬 Let's Connect
-- LinkedIn: [https://linkedin.com/in/tolganogay](https://linkedin.com/in/tolganogay)
+- LinkedIn: [linkedin.com/in/tolganogay](https://linkedin.com/in/tolganogay)
 - X: [@tolganogay](https://x.com/tolganogayy)
 - Email: [tolganogay@gmail.com](mailto:tolganogay@gmail.com)
 
