@@ -5,7 +5,7 @@ Hello, this is **Tolga Noğay**, a passionate **Web Developer** focused on build
 I specialize in **Next.js, JavaScript, and scalable web technologies**. I love exploring new tools, optimizing performance, and contributing to **open-source projects**. Currently, I'm working on **high-performance web applications** and diving deeper into **GraphQL & backend optimizations**.  
 
 - 💻 [What am I building? (**GitHub**, you're already here)](https://github.com/tolganogay)  
-- 𝕏 [What do I think? (**X/Twitter**)](https://x.com/tolganogayy)  
+- 𝕏  [What do I think? (**X/Twitter**)](https://x.com/tolganogayy)  
 - 🏹 [My professional journey (**LinkedIn**)](https://linkedin.com/in/tolganogay)  
 - 📧 [Contact me (**Email**)](mailto:tolganogay@gmail.com)  
 
