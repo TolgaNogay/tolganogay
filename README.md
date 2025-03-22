@@ -1,38 +1,19 @@
-# Hello, I'm Tolga Noğay 👋  
+### `npx tolganogay`
 
-🚀 **Passionate Web Developer | Next.js Enthusiast | Tech Explorer**  
+Hello, this is **Tolga Noğay**, a passionate **Web Developer** focused on building modern, user-friendly applications.  
 
-I specialize in building **dynamic, user-friendly applications** with cutting-edge web technologies. With a strong focus on **performance, scalability, and user experience**, I continuously explore modern tools and frameworks to stay ahead in the industry.  
+I specialize in **Next.js, JavaScript, and scalable web technologies**. I love exploring new tools, optimizing performance, and contributing to **open-source projects**. Currently, I'm working on **high-performance web applications** and diving deeper into **GraphQL & backend optimizations**.  
 
----
+- 💻 [What am I building? (**GitHub**, you're already here)](https://github.com/tolganogay)  
+- 𝕏 [What do I think? (**X/Twitter**)](https://x.com/tolganogayy)  
+- 🏹 [My professional journey (**LinkedIn**)](https://linkedin.com/in/tolganogay)  
+- 📧 [Contact me (**Email**)](mailto:tolganogay@gmail.com)  
 
-## 🔧 Tech Stack & Skills  
-🔹 **Frontend**: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
-🔹 **Backend**: Node.js, Express, Firebase, MongoDB  
-🔹 **DevOps & Tools**: Docker, Netlify, Vercel, Heroku  
-🔹 **Version Control**: Git, GitHub  
+🚀 **Check out my open-source projects below!** 👇🏻  
 
----
+> P.S. To read this intro on terminal, just run `npx tolganogay`. But why? -- why not? 🤷🏻‍♂️  
 
-## 🚀 Featured Projects  
-🌟 **[Clyse](https://clyse.co)** – Stay in control of your connections with advanced link shortening, targeting, and tracking.  
-🌟 **[Wicorns](https://wicorns.com)** – A content platform driven by technology and trends.  
-
----
-
-## 🌱 Currently Exploring  
-🔹 Advanced **Next.js** features & performance optimization  
-🔹 **GraphQL** for efficient data fetching  
-
----
-
-## 📬 Let's Connect  
-💼 **LinkedIn**: [linkedin.com/in/tolganogay](https://linkedin.com/in/tolganogay)  
-🐦 **X (Twitter)**: [@tolganogay](https://x.com/tolganogayy)  
-📧 **Email**: [tolganogay@gmail.com](mailto:tolganogay@gmail.com)  
-
-📩 Feel free to reach out for **collaborations**, **freelance projects**, or just a chat about **web development trends**!  
-
----
-
-> *"The best way to predict the future is to create it."* – Peter Drucker  
+<details>
+  <summary>More...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolganogay&show_icons=true&count_private=true&theme=dark" />
+</details>
