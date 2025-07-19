@@ -18,35 +18,16 @@ I create seamless user experiences by leveraging **React**, **Next.js**, and **T
 
 ---
 
-### 💼 Work Experience
-
-- **Frontend Developer @ [Wicorns](https://wicorns.com)**  
-  <sub>Developed modern web interfaces and content platforms.</sub>  
-  `October 2024 - Present`
-
-- **Data Processing Intern @ Muratpaşa Municipality**  
-  <sub>Assisted in managing and updating the municipality's IT infrastructure.</sub>  
-  `September 2021 - June 2022`
-
----
-
 ### ✨ Featured Projects
 
-#### 🏛 [Murat Çok Mimarlık Stüdyosu](https://muratcokmimarlik.com)  
-_Studio crafting modern, functional, and sustainable spaces._
-> ![project3](https://www.nogay.tr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmuratcok.ed4d96a5.png&w=828&q=100)
+- **[Murat Çok Mimarlık Stüdyosu](https://muratcokmimarlik.com)**  
+  _Studio crafting modern, functional, and sustainable spaces._
 
----
+- **[Türkiye Deprem Bilgi Portalı](https://depremhatti.xyz)**  
+  _Real-time earthquake monitoring platform for Turkey._
 
-#### 🌍 [Türkiye Deprem Bilgi Portalı](https://depremhatti.xyz)  
-_Real-time earthquake monitoring platform for Turkey._
-> ![project2](https://www.nogay.tr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdepremhatti.xyz.c8545086.png&w=828&q=100)
-
----
-
-#### 📰 [Wicorns](https://wicorns.com)  
-_Technology and trend-based content platform._
-> ![project3](https://www.nogay.tr/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwicorns.bab92b74.png&w=828&q=100)
+- **[Wicorns](https://wicorns.com)**  
+  _Technology and trend-based content platform._
 
 <p align="center">
   <a href="https://nogay.tr">🔗 See more on nogay.tr</a>
@@ -64,9 +45,9 @@ _Technology and trend-based content platform._
 
 ### 📬 Reach Me
 
-- Mail: [tolga@nogay.tr](mailto:tolga@nogay.tr)  
-- Web: [nogay.tr](https://nogay.tr)  
-- Twitter: [@twitterkullaniciadi](https://twitter.com/twitterkullaniciadi)
+- 📧 Mail: [tolga@nogay.tr](mailto:tolga@nogay.tr)  
+- 🌐 Web: [nogay.tr](https://nogay.tr)  
+- 🐦 Twitter: [@tolganogayy](https://twitter.com/tolganogayy)
 
 ---
 
