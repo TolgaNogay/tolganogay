@@ -1,15 +1,6 @@
 <h1 align="center">Tolga Noğay</h1>
 <p align="center">🚀 Making tools like <a href="https://wicorns.com">wicorns.com</a> & <a href="https://nogay.tr">nogay.tr</a></p>
 
-<p align="center">
-  <a href="mailto:tolga@nogay.tr">
-    <img src="https://img.shields.io/badge/tolga@nogay.tr-Contact-blue?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://nogay.tr">
-    <img src="https://img.shields.io/badge/Website-nogay.tr-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About
