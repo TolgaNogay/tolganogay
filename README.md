@@ -1,24 +1,24 @@
 <h1 align="center">Tolga Noğay</h1>
-<p align="center">🚀 Making tools like <a href="https://wicorns.com">wicorns.com</a> & <a href="https://nogay.tr">nogay.tr</a></p>
+<p align="center">🚀 Building digital products, web applications, and useful tools.</p>
 
 ---
 
 ### 👨‍💻 About
 
-I create seamless user experiences by leveraging **React**, **Next.js**, and **Tailwind CSS** for the web, while building high-performance mobile apps with **React Native**.
+I develop modern web and mobile applications using **React**, **Next.js**, **TypeScript**, and **React Native**. My focus is creating fast, scalable, and user-friendly digital experiences.
 
 ---
 
 ### ✨ Featured Projects
 
-- **[Murat Çok Mimarlık Stüdyosu](https://muratcokmimarlik.com)**  
-  _Studio crafting modern, functional, and sustainable spaces._
-
-- **[Türkiye Deprem Bilgi Portalı](https://depremhatti.xyz)**  
-  _Real-time earthquake monitoring platform for Turkey._
-
 - **[Wicorns](https://wicorns.com)**  
-  _Technology and trend-based content platform._
+  _Technology, software, AI, and digital trend content platform._
+
+- **[Nogay.tr](https://nogay.tr)**  
+  _Personal portfolio showcasing projects, experiments, and digital products._
+
+- **[Mustafa Ulubay](https://mustafaulubay.com)**  
+  _Professional website and digital presence platform._
 
 <p align="center">
   <a href="https://nogay.tr">🔗 See more on nogay.tr</a>
@@ -36,10 +36,10 @@ I create seamless user experiences by leveraging **React**, **Next.js**, and **T
 
 ### 📬 Reach Me
 
-- 📧 Mail: [tolga@nogay.tr](mailto:tolga@nogay.tr)  
-- 🌐 Web: [nogay.tr](https://nogay.tr)  
-- 🐦 Twitter: [@tolganogayy](https://twitter.com/tolganogayy)
+- 📧 Mail: [tolga@nogay.tr](mailto:tolga@nogay.tr)
+- 🌐 Web: [nogay.tr](https://nogay.tr)
+- 🐦 X: [@tolganogayy](https://x.com/tolganogayy)
 
 ---
 
-> “Code is the closest thing we have to magic. Keep it simple, but significant.” – Tolga Noğay
+> “Code is the closest thing we have to magic. Keep it simple, but significant.”
